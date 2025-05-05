@@ -31,7 +31,7 @@ Aproveche al máximo [!DNL GenStudio for Performance Marketing]. Utilice estos t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Introducción de marca, producto y persona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Introducción de marca, producto y persona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439374/?format=jpeg&nocache=1732633204686&captions=spa" alt="Introducción de marca, producto y persona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,7 +67,7 @@ Aproveche al máximo [!DNL GenStudio for Performance Marketing]. Utilice estos t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="Creación de correos electrónicos de marketing en marca" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Creación de correos electrónicos de marketing en marca"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435070/?format=jpeg&nocache=1732633205780&captions=spa" alt="Creación de correos electrónicos de marketing en marca"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +90,7 @@ Aproveche al máximo [!DNL GenStudio for Performance Marketing]. Utilice estos t
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-meta-ads.md" title="Creación de metaanuncios con marca" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Creación de metaanuncios con marca"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435081/?format=jpeg&nocache=1732633205785&captions=spa" alt="Creación de metaanuncios con marca"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +141,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435070?format=jpeg&captions=spa" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +154,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435081?format=jpeg&captions=spa" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">

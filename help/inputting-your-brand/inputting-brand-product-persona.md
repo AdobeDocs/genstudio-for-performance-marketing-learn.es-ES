@@ -20,4 +20,4 @@ ht-degree: 83%
 
 En este vídeo se explica detalladamente cómo introducir las directrices de marca, los productos y las personas clave de marketing de su compañía en GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439374/?learn=on&enablevpops&captions=spa)
