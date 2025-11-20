@@ -1,5 +1,5 @@
 ---
-title: Creación de metaanuncios con marca
+title: Creación de anuncios para Meta sin marca
 description: Siga una explicación paso a paso del producto para crear un meta-anuncio en  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Siga el tutorial paso a paso del producto para crear un metaanuncio en [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435081/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
