@@ -4,7 +4,7 @@ breadcrumb-title: Adobe [!DNL GenStudio for Performance Marketing] tutoriales
 user-guide-description: Vea tutoriales de Experience League sobre Adobe [!DNL GenStudio for Performance Marketing], una solución integral para acelerar y simplificar su supply chain de contenido con IA generativa y automatización inteligente.
 source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '50'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [[!DNL GenStudio for Performance Marketing] tutoriales](overview.md)
 + Introducción de la marca {#inputing-your-brand}
-   + [Introducción de marca, producto y persona](./inputting-your-brand/inputting-brand-product-persona.md)
+  + [Introducción de marca, producto y persona](./inputting-your-brand/inputting-brand-product-persona.md)
 + Creación de experiencias {#creating-experiences}
-   + [Creación de correos electrónicos de marketing en marca](./creating-experiences/creating-on-brand-emails.md)
-   + [Creación de meta-ads en la marca](./creating-experiences/creating-on-meta-ads.md)
+  + [Creación de correos electrónicos de marketing en marca](./creating-experiences/creating-on-brand-emails.md)
+  + [Creación de meta-ads en la marca](./creating-experiences/creating-on-meta-ads.md)
