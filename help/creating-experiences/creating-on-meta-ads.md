@@ -50,4 +50,4 @@ ht-degree: 73%
 
 Siga el tutorial paso a paso del producto para crear un metaanuncio en [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435081/?captions=spa&learn=on)
